@@ -18,6 +18,7 @@ const App = () => {
     setMovies(() => data.Search);
   }
 
+  //This function sets the search term to Avengers first time app is loaded
   useEffect(() => {
     searchMovies("Avengers");
   }, []);
