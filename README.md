@@ -7,3 +7,5 @@ This is a movies searching app. It uses omdb API to fetch movies data. Provides 
 
 # Technologies used
 ReactJS 
+
+Link (https://movieland-rkm.netlify.app/).
