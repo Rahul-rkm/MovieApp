@@ -9,3 +9,5 @@ This is a movies searching app. It uses omdb API to fetch movies data. Provides 
 ReactJS 
 
 Link (https://movieland-rkm.netlify.app/).
+
+![Screenshot](https://github.com/Rahul-rkm/MovieApp/blob/main/public/screenshot01.jpg)
